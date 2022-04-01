@@ -1,0 +1,25 @@
+.App {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: .5rem;
+  padding: 1rem;
+}
+.card {
+  border: 1px solid #000;
+  background: #fdfdfd;
+  width: 300px;
+  margin: .2rem;
+  padding: 1rem;
+  height: 250px;
+}
+.currency {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: -.7rem;
+}
+.currency p {
+  border: 1px solid #000;
+  padding: .3rem;
+  margin: .1rem;
+  text-transform: uppercase;
+}
