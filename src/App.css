@@ -3,14 +3,17 @@
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: .5rem;
   padding: 1rem;
+  background: #fafafa;
 }
 .card {
-  border: 1px solid #000;
   background: #fdfdfd;
   width: 300px;
   margin: .2rem;
-  padding: 1rem;
-  height: 250px;
+  padding: 1.5rem .8rem;
+  height: 280px;
+  border-radius: 9px;
+  background: #ffffff;
+  box-shadow:  6px 6px 12px #f2f2f2, -6px -6px 12px #ffffff;
 }
 .currency {
   display: flex;
@@ -18,8 +21,9 @@
   margin-top: -.7rem;
 }
 .currency p {
-  border: 1px solid #000;
-  padding: .3rem;
+  background: rgb(235, 235, 235);
+  border-radius: 9px;
+  padding: .3rem .5rem;
   margin: .1rem;
   text-transform: uppercase;
 }
