@@ -9,11 +9,14 @@
   background: #fdfdfd;
   width: 300px;
   margin: .2rem;
-  padding: 1.5rem .8rem;
+  padding: .6rem .8rem 2rem .8rem;
   height: 280px;
   border-radius: 9px;
   background: #ffffff;
   box-shadow:  6px 6px 12px #f2f2f2, -6px -6px 12px #ffffff;
+}
+.title {
+  letter-spacing: .1rem;
 }
 .currency {
   display: flex;

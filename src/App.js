@@ -639,7 +639,7 @@ function App() {
       <div className="App">
         {allGiftCards.map( giftcard => 
           <div className='card' key={giftcard.id}>
-            <p><b>Card Name:</b> {giftcard.title}</p>
+            <h2 className='title'>{giftcard.title}</h2>
             <p key={giftcard.id}>
               <b>Currencies:</b>
             </p>
