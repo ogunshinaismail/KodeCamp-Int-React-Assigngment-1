@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KodeCamp-Int-React-Assigngment-1/static/css/main.bd0a0b89.css",
+    "main.css": "/KodeCamp-Int-React-Assigngment-1/static/css/main.c8294e5c.css",
     "main.js": "/KodeCamp-Int-React-Assigngment-1/static/js/main.23f376b5.js",
     "static/js/787.7b63f85e.chunk.js": "/KodeCamp-Int-React-Assigngment-1/static/js/787.7b63f85e.chunk.js",
     "index.html": "/KodeCamp-Int-React-Assigngment-1/index.html",
-    "main.bd0a0b89.css.map": "/KodeCamp-Int-React-Assigngment-1/static/css/main.bd0a0b89.css.map",
+    "main.c8294e5c.css.map": "/KodeCamp-Int-React-Assigngment-1/static/css/main.c8294e5c.css.map",
     "main.23f376b5.js.map": "/KodeCamp-Int-React-Assigngment-1/static/js/main.23f376b5.js.map",
     "787.7b63f85e.chunk.js.map": "/KodeCamp-Int-React-Assigngment-1/static/js/787.7b63f85e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd0a0b89.css",
+    "static/css/main.c8294e5c.css",
     "static/js/main.23f376b5.js"
   ]
 }
