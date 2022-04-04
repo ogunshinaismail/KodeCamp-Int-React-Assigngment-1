@@ -4,6 +4,8 @@
   gap: .5rem;
   padding: 1rem;
   background: #fafafa;
+  justify-items: center;
+  align-items: center;
 }
 .card {
   background: #fdfdfd;
